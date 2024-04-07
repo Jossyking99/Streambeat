@@ -2,6 +2,7 @@ agora_token_builder==1.0.0
 asgiref==3.4.1
 certifi==2024.2.2
 distlib==0.3.8
+python==3.9
 Django==4.0.1
 filelock==3.13.1
 pipenv==2023.12.1
