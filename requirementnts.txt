@@ -1,0 +1,7 @@
+agora_token_builder==1.0.0
+asgiref==3.8.1
+Django==5.0.4
+package-name==0.1
+psycopg2==2.9.9
+sqlparse==0.4.4
+typing_extensions==4.11.0
